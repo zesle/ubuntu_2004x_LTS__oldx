@@ -1,0 +1,29 @@
+Origin: Zesle Software Inc
+Label: ZesleCP Repo
+Suite: all
+Version: 20.04
+Codename: all
+Architecture: amd64
+Component: main
+Description: ZesleCP All 20.04
+Date: Wed, 29 Dec 2021 00:46:39 +0000
+MD5Sum:
+ 4aac578ccb961d0112a8e7847fb9d313              192 Release
+ ff3269a16a345dca84f16f0b7f2b45a0             2404 main/binary-amd64/Packages
+ ad0c42272846858651ea5c6b03c374d3             1348 main/binary-amd64/Packages.bz2
+ 5ea692eaeb53a4776bfb5645cdecaa32             1249 main/binary-amd64/Packages.gz
+SHA1:
+ 4f6f0884752180447b589c0b27d1bd43561605ad              192 Release
+ 6978914e6ebc5ff0c0c6a70b0db95fac2daf583b             2404 main/binary-amd64/Packages
+ 94338b3dbad2f42410ad98ec3ef071eeb5d50be7             1348 main/binary-amd64/Packages.bz2
+ 0530830f71672120877aec5ec7f3a41214a70d89             1249 main/binary-amd64/Packages.gz
+SHA256:
+ a80d498792ba444074ee188556056e527c18dd9bea6cf0463c916958499d53c6              192 Release
+ 8fd12c4d8e8fdd986a1112d4404941e8c86aa7d9059f02e17ac278c96b149270             2404 main/binary-amd64/Packages
+ f5442ce8fa6a6b12ae1181dfc4621ccbd0c5c4540cadb5825d9dfd0de6b2bce2             1348 main/binary-amd64/Packages.bz2
+ 64b501fad00d2e38271b4a2ebafa8e17a9915cae3b317177f58da2e05ae38bff             1249 main/binary-amd64/Packages.gz
+SHA512:
+ 40957d2d6bd807b4b430a667deeb4d616157a1ea28f665044655ca66308489176f00951c5f0562833d7c3eb55d52fc652739dbccdb75ffef8c1217b2bae8aa92              192 Release
+ e52351dc204c7bc703e1c6abbd7bd57133a7ac12358cc9779851e40ae4b3952894e0ca2d2e416395fee33de2c2ea8e7f12b6a0cbc458e8a4948edfd2b8134686             2404 main/binary-amd64/Packages
+ 5c9489bfc797f0224c5262c9226925be5d094b2cda5907ea17f40277137db4e1f84108f89dff400935396c04da54f5b9f81c1553c8ef320b0678f57dd6a171c2             1348 main/binary-amd64/Packages.bz2
+ d4d2c9250ca2dad3369fabcdb76635e1bf2885670dd9a6535e9ac8e0774103f22c934d8b8f23d5c92ec26f441f4a683ad68dfe0ef2fd2a073603d085fc169e59             1249 main/binary-amd64/Packages.gz
