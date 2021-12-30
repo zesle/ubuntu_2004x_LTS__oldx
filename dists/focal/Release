@@ -1,0 +1,29 @@
+Origin: Zesle Software Inc
+Label: ZesleCP Repo
+Suite: focal
+Version: 20.04
+Codename: focal
+Architecture: amd64
+Component: main
+Description: ZesleCP Focal 20.04
+Date: Thu, 30 Dec 2021 04:14:52 +0000
+MD5Sum:
+ 9b2672839e31d1c92573176a85512ed2              198 Release
+ 0eac89957b2f4b473a89cfc3225a327f           249832 main/binary-amd64/Packages
+ 0661600cba51fb7c7c7fc0803718bfce            45582 main/binary-amd64/Packages.bz2
+ 8408b50bc2cf795b66e8f8c29624e70a            53353 main/binary-amd64/Packages.gz
+SHA1:
+ 4910bd117880ba5c7e86e24a28b38a598ad67bf5              198 Release
+ 4b7ddbdf7919c453483ff220e2846122762e8fe5           249832 main/binary-amd64/Packages
+ fcbb6bc44024aa8458f56e9775bbdc804c3c0ca8            45582 main/binary-amd64/Packages.bz2
+ c1a834b096b5a13e3cc358e0ffced0bcc1f8f22d            53353 main/binary-amd64/Packages.gz
+SHA256:
+ c4ff5675a05ca8f57dd2e15a9795eda5b23c23e65622244e4ae39beb58dcdfa7              198 Release
+ aa53c7c2d18988dec2db662bf663e7d4f9e063a4d394dd00e0dcf0f27f25de7f           249832 main/binary-amd64/Packages
+ 1e0a5e5f2a5856eb6cc5c2714a47fd52ba374693518512871a43d344c785776c            45582 main/binary-amd64/Packages.bz2
+ 11ccbffa2fef6bf29155e51de61ef4641282c838292de267a554e1d6906b644d            53353 main/binary-amd64/Packages.gz
+SHA512:
+ 59ad52f340e0030253da63d836aaa49dc1493a5b43a997b4df59ac2e57ade6794ab9e4bdfac9f273d597658f0580306e5d8d839773fe882921ec1af5f08fadca              198 Release
+ 9c7769743754701072d01dcc0a77e0d29651c756f21ab186317a8d60d50dc0d18bf2a28f6b872ca4eb0511194f57e349033cd89c64e15c30ab72d4cc8514441b           249832 main/binary-amd64/Packages
+ fe7344a69cdb14929210717ad6ad5c51b99eec9fedca915ecf464298202723fe296b3f1fb087825353638244baafc6dc3bcace91a6cb883936aa8c62b8a3b63c            45582 main/binary-amd64/Packages.bz2
+ 1f5afb16a9be6bf233fa35acedb52866e00752dbf26614410a1f256e17eb7419af33da1f693caa3e0ed5285b45ea1dbec51a3ec7c16a697cc17599f4f104bf5e            53353 main/binary-amd64/Packages.gz
