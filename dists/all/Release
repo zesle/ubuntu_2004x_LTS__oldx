@@ -6,24 +6,24 @@ Codename: all
 Architecture: amd64
 Component: main
 Description: ZesleCP All 20.04
-Date: Sun, 02 Jan 2022 04:41:27 +0000
+Date: Tue, 11 Jan 2022 18:52:17 +0000
 MD5Sum:
- 65d00cc1394292fd524618e599ba5bac              192 Release
+ cc2d018894b8834b2ba67881cb0520ca              192 Release
  ff3269a16a345dca84f16f0b7f2b45a0             2404 main/binary-amd64/Packages
  ad0c42272846858651ea5c6b03c374d3             1348 main/binary-amd64/Packages.bz2
- e911db671af338520bc85548d89ee411             1249 main/binary-amd64/Packages.gz
+ 3cc174effdfaf392e5992f556b1d966c             1249 main/binary-amd64/Packages.gz
 SHA1:
- 644207ee597f55396f34538d6a6a0844e729067a              192 Release
+ 5143b104d6e1ddde2d881c26a7ff5a86b7199bf2              192 Release
  6978914e6ebc5ff0c0c6a70b0db95fac2daf583b             2404 main/binary-amd64/Packages
  94338b3dbad2f42410ad98ec3ef071eeb5d50be7             1348 main/binary-amd64/Packages.bz2
- 3f4ebcc254a32b75041e3086f0cb36c9b8e886d5             1249 main/binary-amd64/Packages.gz
+ 58e89ab856fdb073c2c3281426f1dfe38085a858             1249 main/binary-amd64/Packages.gz
 SHA256:
- 9f5d6342a4c9f5f510d2c2273613503f257ca6fbf76cc7fdfec18ab773d0af5a              192 Release
+ 810bab290cdcdc2e8bb209e8e89ba1d3671a7a946076e2d85591d088b1edcd57              192 Release
  8fd12c4d8e8fdd986a1112d4404941e8c86aa7d9059f02e17ac278c96b149270             2404 main/binary-amd64/Packages
  f5442ce8fa6a6b12ae1181dfc4621ccbd0c5c4540cadb5825d9dfd0de6b2bce2             1348 main/binary-amd64/Packages.bz2
- 35b5e069604ee4b554187c98f82a3fd90b6ab8ae02b6ef44eabd6012bb5f9b9f             1249 main/binary-amd64/Packages.gz
+ f638e35c436a2e91843f729edf777d1aeebe1a838c252731b44c1ea8f846a780             1249 main/binary-amd64/Packages.gz
 SHA512:
- 47a966ee6deaf4b7aa3be57404be8717e2a530d471e7e027bc3bf453c195067fbe9b99f3f7f323eaad17e73328a05e05fe0ee1c8358cdc4b0a047cb3981b9ac8              192 Release
+ 9c1e9a6f6936f1714d5bf90da7f8f4bcb63b9fa08f2adbcb06646ca8167411457e3acdedff3ca832657c54c5ed9bb7244df21f8bd08e5d54d709be0b17ae7078              192 Release
  e52351dc204c7bc703e1c6abbd7bd57133a7ac12358cc9779851e40ae4b3952894e0ca2d2e416395fee33de2c2ea8e7f12b6a0cbc458e8a4948edfd2b8134686             2404 main/binary-amd64/Packages
  5c9489bfc797f0224c5262c9226925be5d094b2cda5907ea17f40277137db4e1f84108f89dff400935396c04da54f5b9f81c1553c8ef320b0678f57dd6a171c2             1348 main/binary-amd64/Packages.bz2
- 4c0cd38a54dc394be7698d8520ecd2e02f536400e50d3f694a13f9df11799d2a94144975eff8460d419d748841256c6cfc87556ad29f6705cd0afc4d3e2a7f07             1249 main/binary-amd64/Packages.gz
+ efde2a407608dc9ca78b07cb621913fe955e763fe6f14d2ea45f225ec171030d74138f95c20c216de170e20edf817b094adb2f343acaa1490fd6d02226ad0c43             1249 main/binary-amd64/Packages.gz
