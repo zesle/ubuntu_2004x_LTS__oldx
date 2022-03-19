@@ -6358,6 +6358,50 @@ Description: The ze-php81-zip package delivers a module which will allow PHP scr
     to transparently read or write ZIP compressed archives and the files
     inside them.
 
+Package: zesle-agent
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Surjit Sidhu <mail@surjitsidhu.com>
+Installed-Size: 13083
+Depends: libc6 (>= 2.28)
+Filename: pool/focal/main/zesle-agent_1.0.0_amd64.deb
+Size: 4238596
+MD5sum: 43b297e3738fb820f147619f3d16976f
+SHA1: fac757bac48523e9fddaeb852550e4f071445d2f
+SHA256: 723c6137dd4e30fb05e4db4e46808a6aa276f5ca571f33846f2af14a3ed39eaf
+Section: extra
+Priority: Priority
+Multi-Arch: foreign
+Homepage: http://zeslecp.com
+Description: Zesle Agent
+
+Package: zesle-chrootsh
+Version: 1.0-7
+Architecture: amd64
+Essential: yes
+Maintainer: Surjit Sidhu <surjit@zesle.com>
+Installed-Size: 1276
+Pre-Depends: libc6 (>= 2.25), libtinfo6 (>= 6)
+Filename: pool/focal/main/zesle-chrootsh_1.0-7_amd64.deb
+Size: 528504
+MD5sum: 91d43d0f4a5bd811460d139e0800df05
+SHA1: 1b8c3461a10e6397e1f2ae3f88d1cab0af3bdfdb
+SHA256: b28bb20c0c59987a4fcf911e3e933ffb25da95e1bf77905154e36078413a2f83
+Section: extra
+Priority: Priority
+Multi-Arch: foreign
+Homepage: http://tiswww.case.edu/php/chet/bash/bashtop.html
+Description: GNU Bourne Again SHell
+ Bash is an sh-compatible command language interpreter that executes
+ commands read from the standard input or from a file.  Bash also
+ incorporates useful features from the Korn and C shells (ksh and csh).
+ .
+ Bash is ultimately intended to be a conformant implementation of the
+ IEEE POSIX Shell and Tools specification (IEEE Working Group 1003.2).
+ .
+ The Programmable Completion Code, by Ian Macdonald, is now found in
+ the bash-completion package.
+
 Package: zesle-php
 Version: 7.4.13-10
 Architecture: amd64
