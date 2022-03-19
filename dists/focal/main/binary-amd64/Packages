@@ -6402,6 +6402,33 @@ Description: GNU Bourne Again SHell
  The Programmable Completion Code, by Ian Macdonald, is now found in
  the bash-completion package.
 
+Package: zesle-chrootsh
+Version: 1.0-8
+Architecture: amd64
+Essential: yes
+Maintainer: Surjit Sidhu <surjit@zesle.com>
+Installed-Size: 1267
+Pre-Depends: libc6 (>= 2.25), libtinfo6 (>= 6)
+Filename: pool/focal/main/zesle-chrootsh_1.0-8_amd64.deb
+Size: 523620
+MD5sum: 0a8e676cfca5433e5941e4f1b7a4de6b
+SHA1: 1c3526bb8019f91030aab5a1cb491facaee82a0c
+SHA256: 20898963b2ea030c3710f7a10fec6acf4784e390d46397c335117c32c590be7b
+Section: extra
+Priority: Priority
+Multi-Arch: foreign
+Homepage: http://tiswww.case.edu/php/chet/bash/bashtop.html
+Description: GNU Bourne Again SHell
+ Bash is an sh-compatible command language interpreter that executes
+ commands read from the standard input or from a file.  Bash also
+ incorporates useful features from the Korn and C shells (ksh and csh).
+ .
+ Bash is ultimately intended to be a conformant implementation of the
+ IEEE POSIX Shell and Tools specification (IEEE Working Group 1003.2).
+ .
+ The Programmable Completion Code, by Ian Macdonald, is now found in
+ the bash-completion package.
+
 Package: zesle-php
 Version: 7.4.13-10
 Architecture: amd64
@@ -7383,6 +7410,23 @@ Size: 1001852
 MD5sum: c6937e971f6db0f765cfa8fd3c97dbbd
 SHA1: 5263ead80f684b7b62bf9b5b3ec2c4098dce2780
 SHA256: 0cbac8699992860d22639b97a2217a62b737ca133bec1c5e8e53ff11305e1088
+Section: extra
+Priority: Priority
+Multi-Arch: foreign
+Homepage: https://nginx.org
+Description: zeslesrv (nginx)
+
+Package: zeslesrv
+Version: 1.0-8
+Architecture: amd64
+Maintainer: Surjit Sidhu <mail@surjitsidhu.com>
+Installed-Size: 4169
+Depends: libbrotli1 (>= 0.6.0), libc6 (>= 2.29), libcrypt1 (>= 1:4.1.0), libgcc-s1 (>= 3.3), libpcre3, libssl1.1 (>= 1.1.1), zlib1g (>= 1:1.1.4)
+Filename: pool/focal/main/zeslesrv_1.0-8_amd64.deb
+Size: 1002596
+MD5sum: d381f1067e6d6252e0fd63567c674e3e
+SHA1: 0c17874a345066c1896b1b5b1203d8741a070f78
+SHA256: aef40edf1d7c055187a5222ba5051a2d02baaa7cb8de21ff06fafb8e8639d1af
 Section: extra
 Priority: Priority
 Multi-Arch: foreign
