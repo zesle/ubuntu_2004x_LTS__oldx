@@ -6393,58 +6393,21 @@ Homepage: http://zeslecp.com
 Description: Zesle Agent
 
 Package: zesle-chrootsh
-Version: 1.0-7
+Version: 1.0-3
 Architecture: amd64
-Essential: yes
-Maintainer: Surjit Sidhu <surjit@zesle.com>
-Installed-Size: 1276
-Pre-Depends: libc6 (>= 2.25), libtinfo6 (>= 6)
-Filename: pool/focal/main/zesle-chrootsh_1.0-7_amd64.deb
-Size: 528504
-MD5sum: 91d43d0f4a5bd811460d139e0800df05
-SHA1: 1b8c3461a10e6397e1f2ae3f88d1cab0af3bdfdb
-SHA256: b28bb20c0c59987a4fcf911e3e933ffb25da95e1bf77905154e36078413a2f83
+Maintainer: Surjit Sidhu <mail@surjitsidhu.com>
+Installed-Size: 1755
+Depends: libc6 (>= 2.25), libtinfo6 (>= 6)
+Filename: pool/focal/main/zesle-chrootsh_1.0-3_amd64.deb
+Size: 555800
+MD5sum: 3bbe02e6e6a2160b05c7e4ee91479ade
+SHA1: 4a4cfca40b619343977abe07caea87da6bbd2d39
+SHA256: 2549ffeb13c6dfb5c39686b025027575881c718e5b1653f06b5b6697428eff64
 Section: extra
 Priority: Priority
 Multi-Arch: foreign
-Homepage: http://tiswww.case.edu/php/chet/bash/bashtop.html
-Description: GNU Bourne Again SHell
- Bash is an sh-compatible command language interpreter that executes
- commands read from the standard input or from a file.  Bash also
- incorporates useful features from the Korn and C shells (ksh and csh).
- .
- Bash is ultimately intended to be a conformant implementation of the
- IEEE POSIX Shell and Tools specification (IEEE Working Group 1003.2).
- .
- The Programmable Completion Code, by Ian Macdonald, is now found in
- the bash-completion package.
-
-Package: zesle-chrootsh
-Version: 1.0-8
-Architecture: amd64
-Essential: yes
-Maintainer: Surjit Sidhu <surjit@zesle.com>
-Installed-Size: 1267
-Pre-Depends: libc6 (>= 2.25), libtinfo6 (>= 6)
-Filename: pool/focal/main/zesle-chrootsh_1.0-8_amd64.deb
-Size: 523620
-MD5sum: 0a8e676cfca5433e5941e4f1b7a4de6b
-SHA1: 1c3526bb8019f91030aab5a1cb491facaee82a0c
-SHA256: 20898963b2ea030c3710f7a10fec6acf4784e390d46397c335117c32c590be7b
-Section: extra
-Priority: Priority
-Multi-Arch: foreign
-Homepage: http://tiswww.case.edu/php/chet/bash/bashtop.html
-Description: GNU Bourne Again SHell
- Bash is an sh-compatible command language interpreter that executes
- commands read from the standard input or from a file.  Bash also
- incorporates useful features from the Korn and C shells (ksh and csh).
- .
- Bash is ultimately intended to be a conformant implementation of the
- IEEE POSIX Shell and Tools specification (IEEE Working Group 1003.2).
- .
- The Programmable Completion Code, by Ian Macdonald, is now found in
- the bash-completion package.
+Homepage: http://zeslecp.com
+Description: Zesle Agent
 
 Package: zesle-php
 Version: 7.4.13-10
