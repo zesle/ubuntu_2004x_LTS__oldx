@@ -4770,6 +4770,24 @@ Description: The php-iconv package delivers a module which will allow PHP script
     idea to install the GNU libiconv library. It will most likely end up
     with more consistent results.
 
+Package: ze-php73-imagick
+Version: 3.7.0-1
+Architecture: amd64
+Maintainer: Surjit Sidhu <mail@surjitsidhu.com>
+Installed-Size: 479
+Depends: libc6 (>= 2.14), libgomp1 (>= 9), libmagickcore-6.q16-6 (>= 8:6.9.10.2), libmagickwand-6.q16-6 (>= 8:6.9.10.2)
+Filename: pool/focal/main/ze-php73-imagick_3.7.0-1_amd64.deb
+Size: 93648
+MD5sum: 1ecf1faa69d276e3b8e9ce08ae1f9cca
+SHA1: 42433d3cb6fae6510edc9884c71d752f835b32a3
+SHA256: e6eb8111bcc4adc5be0d6e767e72e2b86bc1dbe0f9ca8513ef6bd85a1e5f77b7
+Section: extra
+Priority: Priority
+Multi-Arch: foreign
+Homepage: https://pecl.php.net/package/imagick/3.4.4
+Description: Imagick is a native php extension to
+  create and modify images using the ImageMagick API.
+
 Package: ze-php73-imap
 Source: ze-php73
 Version: 7.3.33-3
@@ -6362,6 +6380,24 @@ Description: The php-iconv package delivers a module which will allow PHP script
     idea to install the GNU libiconv library. It will most likely end up
     with more consistent results.
 
+Package: ze-php74-imagick
+Version: 3.7.0-1
+Architecture: amd64
+Maintainer: Surjit Sidhu <mail@surjitsidhu.com>
+Installed-Size: 471
+Depends: libc6 (>= 2.14), libgomp1 (>= 9), libmagickcore-6.q16-6 (>= 8:6.9.10.2), libmagickwand-6.q16-6 (>= 8:6.9.10.2)
+Filename: pool/focal/main/ze-php74-imagick_3.7.0-1_amd64.deb
+Size: 91592
+MD5sum: 192bd40b6d2a877e88abb76ca839a96d
+SHA1: 23036ff38a231ca725c43980b9cfe0dd3776203b
+SHA256: 4c73fd196f4eb4f5b623bc097a6ab1d04fa753b6c920998159890858c64b12a8
+Section: extra
+Priority: Priority
+Multi-Arch: foreign
+Homepage: https://pecl.php.net/package/imagick/3.4.4
+Description: Imagick is a native php extension to
+  create and modify images using the ImageMagick API.
+
 Package: ze-php74-imap
 Source: ze-php74
 Version: 7.4.26-3
@@ -7554,6 +7590,24 @@ Description: The php-iconv package delivers a module which will allow PHP script
     idea to install the GNU libiconv library. It will most likely end up
     with more consistent results.
 
+Package: ze-php80-imagick
+Version: 3.7.0-1
+Architecture: amd64
+Maintainer: Surjit Sidhu <mail@surjitsidhu.com>
+Installed-Size: 479
+Depends: libc6 (>= 2.14), libgomp1 (>= 9), libmagickcore-6.q16-6 (>= 8:6.9.10.2), libmagickwand-6.q16-6 (>= 8:6.9.10.2)
+Filename: pool/focal/main/ze-php80-imagick_3.7.0-1_amd64.deb
+Size: 92184
+MD5sum: 0c1cd36ecec00d3709b9dbf1851cc673
+SHA1: 58057c558eaa3de67643aaf0f3ec522f36f9c5e8
+SHA256: 543ce2615924c6307941dd4b05354d5654a7cda7c7c035510280ca74e057a034
+Section: extra
+Priority: Priority
+Multi-Arch: foreign
+Homepage: https://pecl.php.net/package/imagick/3.4.4
+Description: Imagick is a native php extension to
+  create and modify images using the ImageMagick API.
+
 Package: ze-php80-imap
 Source: ze-php80
 Version: 8.0.13-2
@@ -8349,6 +8403,24 @@ Description: The php-iconv package delivers a module which will allow PHP script
     systems may not work as you expect. In such case, it would be a good
     idea to install the GNU libiconv library. It will most likely end up
     with more consistent results.
+
+Package: ze-php81-imagick
+Version: 3.7.0-1
+Architecture: amd64
+Maintainer: Surjit Sidhu <mail@surjitsidhu.com>
+Installed-Size: 479
+Depends: libc6 (>= 2.14), libgomp1 (>= 9), libmagickcore-6.q16-6 (>= 8:6.9.10.2), libmagickwand-6.q16-6 (>= 8:6.9.10.2)
+Filename: pool/focal/main/ze-php81-imagick_3.7.0-1_amd64.deb
+Size: 92120
+MD5sum: e98317afa2f84cbe967f28faf79dee70
+SHA1: 4141856fa43bf8b8883d9e1e64575f8cdd30669d
+SHA256: 31d7b3ce3a8a374d3bedfdaeff7fc7dd719bf70996326640e3b572c503a8e349
+Section: extra
+Priority: Priority
+Multi-Arch: foreign
+Homepage: https://pecl.php.net/package/imagick/3.4.4
+Description: Imagick is a native php extension to
+  create and modify images using the ImageMagick API.
 
 Package: ze-php81-imap
 Source: ze-php81
