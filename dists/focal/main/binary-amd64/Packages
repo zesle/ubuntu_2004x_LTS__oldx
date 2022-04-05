@@ -8869,6 +8869,23 @@ Multi-Arch: foreign
 Homepage: http://zeslecp.com
 Description: Zesle Agent
 
+Package: zesle-agent
+Version: 1.0.1-6
+Architecture: amd64
+Maintainer: Surjit Sidhu <mail@surjitsidhu.com>
+Installed-Size: 19852
+Depends: libc6 (>= 2.28)
+Filename: pool/focal/main/zesle-agent_1.0.1-6_amd64.deb
+Size: 6330928
+MD5sum: 842c8a56b4853b9d274ed0b66c3b3770
+SHA1: d89197e87d5f1c2ea659441cbf430521547d0f39
+SHA256: 3ca6549ef667f7fccbceaa66840e42ca1f69b4a610e550fea64752dc424085de
+Section: extra
+Priority: Priority
+Multi-Arch: foreign
+Homepage: http://zeslecp.com
+Description: Zesle Agent
+
 Package: zesle-chrootsh
 Version: 1.0-4
 Architecture: amd64
