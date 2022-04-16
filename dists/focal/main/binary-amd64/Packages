@@ -2091,10 +2091,10 @@ Maintainer: Surjit Sidhu <mail@surjitsidhu.com>
 Installed-Size: 260
 Depends: libc6 (>= 2.15)
 Filename: pool/focal/main/ze-apr_1.7.0-6_amd64.deb
-Size: 90224
-MD5sum: 4200baaded884e8babaafc2acc8e7108
-SHA1: 5712936a96d4b3a9fb24456f3d1d0f778cf0ef38
-SHA256: 0cd544b82323ced9590376865176c719839223636f889bf2b23249108e889d0f
+Size: 90128
+MD5sum: 50b59ed522ffe6a521450627f75b6d5a
+SHA1: dc4358994c26f80e48b283a0532c6e7b83e144fc
+SHA256: a090affe63729e210dcbf2ca47dd7666282921e6b06dae20a5a94128d3b38b6f
 Section: extra
 Priority: Priority
 Homepage: https://apr.apache.org/
@@ -2113,9 +2113,9 @@ Depends: ze-apr (= 1.7.0-6)
 Conflicts: libapr0-dev, libapr1, libapr1.0-dev
 Filename: pool/focal/main/ze-apr-dev_1.7.0-6_amd64.deb
 Size: 168656
-MD5sum: b6e7be897c036309a0bcc943be820206
-SHA1: 1e5720cfe8fdd0b04367581c8760a3933c5c4457
-SHA256: fb3a08cc930c0a8f93349f62ae36465e088c4ee7328e7e8ff89d670ea7a2b702
+MD5sum: a1265e2c32a895491a349a98182311e2
+SHA1: 2b314c631dbe49a7d663b39324be7df18e7e4029
+SHA256: b0b5edb7c02736725ca0fc385ce97559d225c0c2f7dc30be8498c81ac4223c92
 Section: extra
 Priority: Priority
 Homepage: https://apr.apache.org/
@@ -8851,6 +8851,23 @@ Priority: Priority
 Multi-Arch: foreign
 Homepage: http://zeslecp.com
 Description: Zesle Agent
+
+Package: zesle-openlitespeed
+Version: 1.7.15-4+focal
+Architecture: amd64
+Maintainer: lsadm <info@litespeedtech.com>
+Installed-Size: 30442
+Depends: libc6 (>= 2.10), libcrypt1 (>= 1:4.1.0), rcs, libxml2, openssl, libexpat | libexpat1
+Filename: pool/focal/main/zesle-openlitespeed_1.7.15-4+focal_amd64.deb
+Size: 8164624
+MD5sum: 29756eece2d75470a26b3505e73d112c
+SHA1: 9e14fbadf50651f5fe0046af1dfa3ce6dcf9eef2
+SHA256: 8b0693dabf4fa34b1cacf59146db03c6493b37f0b22fd3c31c6772e749feab73
+Section: extra
+Priority: Priority
+Homepage: http://www.open.litespeedtech.com
+Description: High Performance, lightweight, open source HTTP server
+ OpenLiteSpeed Web Server is developed and copyrighted by LiteSpeed Technologies.
 
 Package: zesle-php
 Version: 7.4.13-10
