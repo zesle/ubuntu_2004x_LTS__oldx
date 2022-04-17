@@ -8859,10 +8859,10 @@ Maintainer: lsadm <info@litespeedtech.com>
 Installed-Size: 30442
 Depends: libc6 (>= 2.10), libcrypt1 (>= 1:4.1.0), rcs, libxml2, openssl, libexpat | libexpat1
 Filename: pool/focal/main/zesle-openlitespeed_1.7.15-4+focal_amd64.deb
-Size: 8164624
-MD5sum: 29756eece2d75470a26b3505e73d112c
-SHA1: 9e14fbadf50651f5fe0046af1dfa3ce6dcf9eef2
-SHA256: 8b0693dabf4fa34b1cacf59146db03c6493b37f0b22fd3c31c6772e749feab73
+Size: 8165744
+MD5sum: bcad982e9c4f89c5c3f4d9c82687a9c6
+SHA1: 76f2e64650911814153394ebf78097f1daa82ddf
+SHA256: 2c6eb11ac15ad7d3e74faf91979fd792674bbfb5682294a9c41bf6993cc18272
 Section: extra
 Priority: Priority
 Homepage: http://www.open.litespeedtech.com

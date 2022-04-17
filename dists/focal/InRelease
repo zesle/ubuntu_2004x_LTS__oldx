@@ -9,38 +9,38 @@ Codename: focal
 Architecture: amd64
 Component: main
 Description: ZesleCP Focal 20.04
-Date: Sat, 16 Apr 2022 04:44:51 +0000
+Date: Sun, 17 Apr 2022 04:04:01 +0000
 MD5Sum:
- 12a6f6767a20b4bce9f35f8f5ffb68e6              198 Release
- 1eb9f09a5eb6bd2ac725fe28e634c292           431324 main/binary-amd64/Packages
- c26fff753303c75ab22c8c75a57b22c0            65202 main/binary-amd64/Packages.bz2
- 1aa0631e6476efb574114ef04e09f39b            85741 main/binary-amd64/Packages.gz
+ b70bf82dad00c7071b7857b01b447907              198 Release
+ 81a13de1debc5ff89fbb5d130ba81309           431324 main/binary-amd64/Packages
+ 57ab341c98a8c856c4a1f375f13d803d            65209 main/binary-amd64/Packages.bz2
+ dfe92f9d867dd1ce6a84108051b019d7            85742 main/binary-amd64/Packages.gz
 SHA1:
- 8735b46290ca466cef56ddc6fc41f8130016537d              198 Release
- d6155d90e7ec555663374ff36f20eee5937c0b3f           431324 main/binary-amd64/Packages
- b4aa2b6c51c197327a5df1de7ade9cd0e08f5ec5            65202 main/binary-amd64/Packages.bz2
- ee2296a97a96d2bdd4227e6cc22fdb2d2c4ca9c4            85741 main/binary-amd64/Packages.gz
+ f568b1a55a7375f53890f7f571fc34d4aa10dde2              198 Release
+ 38944b69bbba42f4dc04903cafe7734492b81446           431324 main/binary-amd64/Packages
+ c0d0a4fdf59dab1dcbc59bfb47989d3eed056746            65209 main/binary-amd64/Packages.bz2
+ 11e182fa65f76dbf38fc5a3d9d17519050e6d945            85742 main/binary-amd64/Packages.gz
 SHA256:
- fb788782c9f8f7f0af583039139cb217dbcb2b0252d065c96daaa4b916540ddf              198 Release
- 60ad25ffb52b2effb592be1700f34d0d4226e68067803dddbc851ff7aab35b0c           431324 main/binary-amd64/Packages
- f0033a0087b5ae1364da9f325faa1f524c584ceaf822eafa51427955f5626217            65202 main/binary-amd64/Packages.bz2
- 76ef0bf5ff066af87375dcd765b239aa01a7fc5b8ce94f35d5a06bf1a8b0cc24            85741 main/binary-amd64/Packages.gz
+ 5e249a37f7c59665aa963dcc18f4a6a2fb3d89a8e62b2cacd6f425907533a29e              198 Release
+ c394d7b72bc97e9e5fd36114afd27fc453e9ebf9bee16663840b1ebaaec94b2e           431324 main/binary-amd64/Packages
+ d521f0b0fdb21c59f634de05c956a82b66371ff83cfb5a4d99b7251c60b0f52b            65209 main/binary-amd64/Packages.bz2
+ 309a86eaf4ffb309c1ff96516e3541196385b9388b433eebfdace78a9a75ab73            85742 main/binary-amd64/Packages.gz
 SHA512:
- 44156c3fa39b4907e9b68ee859273cb6bec88a2d4f86b95a738fb066e8d9e209eeaff174db1ea82729e386c1ae12271a26692d3d61ca6391cfb5a261350b8374              198 Release
- 34509f19eefab8bb2828d672d50186a36c8e2056ba90fe69fd72dc5b47dc209d98e6761151c64944e62f1e438b96c481376043b2421ce409a85ce5d4f7620b34           431324 main/binary-amd64/Packages
- 81b72cabadc8f2aac6be4be0747f3c5246bd741fb329f45a6dce5531a756f1aa346b21469ab3b296fc4a9daa79cdd266cee10e598139e4efce84fe700294c4f4            65202 main/binary-amd64/Packages.bz2
- b2ae15b745e9c4143ae576a058eeb99d1128523c932ee85c65ba17910022378f4c07e3c87625e9edc2fd6754784fa245ead3e43da5cd6a2a00dce770c35f8bb7            85741 main/binary-amd64/Packages.gz
+ 89a6c245400aa54dbb4fad5d44b1f48fd70964e22cfe0e218fe1ea417c529638a9e11ca236b86ed6a866b54437f4cf5f951c010ff2c080927041a36e98e14cef              198 Release
+ 425c53ede22374025f5ab912da073fcc28012446a00e2ee3fd94d6c5a9dd255646331c86a054417f9f26f7ef01ac83ca23b4d16bbdd786769c4ce561353b3be8           431324 main/binary-amd64/Packages
+ 5a082e52762dea6b1e9404ac93d2f8f84714d3f0ee6b9105b834426090c917577ff7caec4f1ee22b9229559cecc7f88810223b4772f524413c5725cfaad5fd5f            65209 main/binary-amd64/Packages.bz2
+ 860b44d76b791579d4bbf557008a6402cff6fc13619795159fc079ec43d6201d9d3c11591bf2246d9fd62424b4e9a24a6ce6d4946fde6ffe346e28f84a683887            85742 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEIeKs94QK4TEryhH9H9J41QSZVSUFAmJaScMACgkQH9J41QSZ
-VSVU2QwAq7gpxO5xdoF0iObBXmxfGhItM/vPkh0I7j1SQx0k5JTBs2j/wdmx+8BM
-Q9CdN5VF3e+dIokUcyJNk8U63WUiT88FZz6sK7m91yV/256bMKeZvMhF29iJpM23
-OcBncxaGIc2Vy65VXElZCRqZUE+KuBq0knAp5jlA7lgrJaeQG/KbQQrnYRGv1GTp
-FKZzpfd5nFelmzzCZX4TjiB3gfOJRAe1nxxcqjpME0NUtRvKXmxbjLFqkA3b83Fj
-U4SwvpR2p3M47MuppNdZcum4qELqjXCnNUjLB4Pu5exe8DVOZKSdexMAsmAUZlZ7
-vEN9/U/5J0YcYIj+/JX3+KX0s+tf8+Tj3Gxam+N/9K80/G+Yh11TB0z1JsRG0G9Y
-Oo8cUqat2+td4UYQbk0yX1hqFeDMZy5ytb5bw0gpdBGuSxr099GhK34S78H3430t
-gq7nfNH6sHlF2QPdNkdFQ0wZYmqKNlk+9c44o3ONcXQ5FfgfsAIxsj2yG7HLgTal
-kmbkz9+j
-=pM/i
+iQGzBAEBCgAdFiEEIeKs94QK4TEryhH9H9J41QSZVSUFAmJbkbEACgkQH9J41QSZ
+VSUNoQv9HhBKMRA0dvK+bVYJGvfxQ1qMdu7dsQjMVp7HOeFcdgiMLubcZQnYCmft
+PKOalC2LZWOmW08fxDrXlAtPm4o0ji2GWx9CuFf/7YiUZwgjUWNJ1hYc+IY5RZ5/
+8Kc4uJf/7bNZeQtlMHtrx8629t+4PyzrbkKt6Alf6p3kacc5/gFZiCAkTzI/CsDE
+zdytb/IoURODD+b1B0wVKIQAkh9bveGBviM2kPZSho54MOnGzrbdUQWwlhzTXlzd
+U7+mrFYO+6IT5IXI2qu3wuNuM1RjIvMlbbRcDK4c34/ua/Cyk/+oS6MNa4pYqdL5
+pLEO/S3sXE3PCDToVkYf1rJheg14VSvZEVtd82gaGt6SeIc8x23HY7KDXnrPP3a+
+s/Sux8NIAev7sL4cyNg4Qlm6e0lvDFqlQFPzBH7dDa/Oqt4vCbCB37cWgKHnhnFT
+4fR+ldJeE/nAdwmcJQnHgTzfGZzO+uhS6WlTDrfBEnLx5EsRWyPe858X2NcmftmI
+T2wrpWuW
+=JEF1
 -----END PGP SIGNATURE-----
